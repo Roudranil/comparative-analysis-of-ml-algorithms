@@ -1,1 +1,1 @@
-# Comparative analysis of Decision trees and Naive Bayes in classification problems
+# Comparative Analysis of DEcision trees, Naive Bayes and Ensemble models
